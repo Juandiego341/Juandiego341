@@ -28,7 +28,7 @@
 ## 📌 Highlight Projects
 
 - [🎨 Personal Portfolio](https://github.com/Juandiego341/portafolio)
-- [🧮 JavaScript Calculator]([https://github.com/Juandiego341/calculadora-js](https://github.com/Juandiego341/Calculadora))
+- [🧮 JavaScript Calculator](https://github.com/Juandiego341/Calculadora)
 
 ## ✨ About Me
 
