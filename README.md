@@ -29,6 +29,7 @@
 
 - [🎨 Personal Portfolio](https://github.com/Juandiego341/portafolio)
 - [🧮 JavaScript Calculator](https://github.com/Juandiego341/Calculadora)
+- [Landing page](https://landing-page-juan-diego-gomez-betancu.netlify.app/)
 
 ## ✨ About Me
 
