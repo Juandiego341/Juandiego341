@@ -1,10 +1,10 @@
-# ¡Hola! 👋 Soy Juan Diego Gómez Betancur
+# 👋 Hi there! I'm Juan Diego Gómez Betancur
 
-🎨 Apasionado por el diseño de interfaces atractivas y funcionales.  
-💻 Enfocado en el desarrollo Front-End y también con experiencia en desarrollo Back-End.  
-🚀 Siempre aprendiendo nuevas tecnologías para mejorar mis habilidades como desarrollador.
+🎨 Passionate about creating clean and functional user interfaces.  
+💻 Focused on Front-End Development, but also experienced in Back-End technologies.  
+🚀 Always learning and building to improve my skills as a full-stack developer.
 
-## 🧠 Tecnologías y lenguajes que manejo
+## 🧠 Skills and Technologies
 
 ### 🖥️ Front-End
 - 🌐 HTML5, CSS3, JavaScript
@@ -12,28 +12,28 @@
 - 🎨 TailwindCSS, Bootstrap
 
 ### ⚙️ Back-End
-- ☕ Java con Spring Boot
+- ☕ Java with Spring Boot
 - 🐍 Python
 - 🐘 PHP
 
-### 🗄️ Bases de datos
-- 📘 SQL (consultas, joins, subconsultas, etc.)
+### 🗄️ Databases
+- 📘 SQL (queries, joins, subqueries)
 - 🐘 PostgreSQL
 - 🔹 SQLite
 
-### 📁 Otras herramientas
-- 🛠️ Git y GitHub
-- 🖌️ Figma (para diseño UI)
+### 📁 Tools & Others
+- 🛠️ Git & GitHub
+- 🖌️ Figma (UI design interpretation)
 
-## 📈 Proyectos destacados
+## 📌 Highlight Projects
 
-- [🎨 Portafolio personal](https://github.com/juandiegogomez/portafolio)
-- [🧮 Calculadora con JS](https://github.com/juandiegogomez/calculadora-js)
+- [🎨 Personal Portfolio](https://github.com/Juandiego341/portafolio)
+- [🧮 JavaScript Calculator]([https://github.com/Juandiego341/calculadora-js](https://github.com/Juandiego341/Calculadora))
 
-## ✨ Sobre mí
+## ✨ About Me
 
-Me considero una persona autodidacta, comprometida y enfocada en seguir creciendo profesionalmente. Tengo experiencia en el desarrollo de aplicaciones tanto del lado del cliente (front-end) como del servidor (back-end), además de manejo de bases de datos y herramientas modernas para el diseño web.
+I'm a self-taught developer, dedicated and motivated to grow professionally. I have hands-on experience with front-end and back-end technologies, and I enjoy turning ideas into real and functional applications.
 
 ---
 
-📫 *¡Gracias por visitar mi perfil! Si te interesa colaborar o tienes alguna sugerencia, estaré encantado de conectar.*
+📫 *Thanks for visiting my profile! I'm open to collaboration and learning opportunities. Feel free to connect!*
