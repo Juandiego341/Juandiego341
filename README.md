@@ -72,7 +72,7 @@
 
 ---
 
-### 🎨 [Personal Portfolio](https://github.com/Juandiego341/portafolio)
+### 🎨 [Personal Portfolio]([https://github.com/Juandiego341/portafolio](https://github.com/Juandiego341?tab=repositories))
 
 ### 🌐 [Landing Page](https://landing-page-juan-diego-gomez-betancu.netlify.app/)
 
